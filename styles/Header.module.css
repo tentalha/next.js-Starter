@@ -1,0 +1,22 @@
+.word2 {
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+.word1 {
+  color: #1abc9c;
+}
+
+.container {
+  margin-top: 50px;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.paragraph {
+  width: 60%;
+}
